@@ -1,2 +1,2 @@
-# SpringCloudStream-Infinispan-Docker
-SpringCloudStream-Infinispan-Docker
+# SpringBoot-Infinispan-Docker
+SpringBoot-Infinispan-Docker
