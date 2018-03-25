@@ -1,4 +1,4 @@
-# Java MicroServices with JHipster, Spring Boot, Spring Cloud, Infinispan cache and Docker
+# MicroServices with Spring Boot, Infinispan cache and Docker
 Java MicroServices with JHipster, Spring Boot, Spring Cloud, Infinispan cache and Docker. Clone the repository and deploy. Refer [this document](https://www.jhipster.tech/docker-compose/) for docker instructions.
 
 Technologies Used:
