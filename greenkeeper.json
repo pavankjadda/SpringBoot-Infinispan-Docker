@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "gateway/package.json",
+        "projects/package.json"
+      ]
+    }
+  }
+}
